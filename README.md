@@ -13,6 +13,11 @@ TV Watching guide Application
 * Segmentation for background change
   * use FastMask
     * https://github.com/voidrank/FastMask
+    * compile error 
+      * hdf5 
+        * https://stackoverflow.com/a/37057313
+      * openblas
+        * https://stackoverflow.com/a/37448511
 * send event to set-top box via http
 
   
