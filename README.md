@@ -16,11 +16,15 @@ TV Watching guide Application
     * compile error 
       * hdf5 
         * https://stackoverflow.com/a/37057313
+        * Trouble building NVCaffe on TX1
+          * https://github.com/dusty-nv/jetson-inference/issues/9
       * openblas
         * https://stackoverflow.com/a/37448511
     * image_demo error
       * can't find cocotools
         * https://github.com/pdollar/coco/issues/14
+      * Caffe with python layers problem, GTK 2.x symbols detected
+        * https://devtalk.nvidia.com/default/topic/979372/caffe-with-python-layers-problem-gtk-2-x-symbols-detected/
 * send event to set-top box via http
 
   
