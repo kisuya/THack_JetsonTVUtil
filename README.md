@@ -18,6 +18,9 @@ TV Watching guide Application
         * https://stackoverflow.com/a/37057313
       * openblas
         * https://stackoverflow.com/a/37448511
+    * image_demo error
+      * can't find cocotools
+        * https://github.com/pdollar/coco/issues/14
 * send event to set-top box via http
 
   
